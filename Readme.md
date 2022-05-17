@@ -1,17 +1,18 @@
 # Projeto API
 ## Armazenamento local de dados em JSON
 
-###Tecnologias:
+### Tecnologias:
 
 - Javascript
 - Node
+- - [Postman](https://www.postman.com/)
 
 ### dependências e utilitários:
 
 - Nodemon
 - express
 - bodyParser
-- [Postman](https://www.postman.com/)
+
 
 ### Desenvolviemnto
 
