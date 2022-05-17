@@ -5,7 +5,7 @@
 
 - Javascript
 - Node
-- - [Postman](https://www.postman.com/)
+- [Postman](https://www.postman.com/)
 
 ### dependências e utilitários:
 
